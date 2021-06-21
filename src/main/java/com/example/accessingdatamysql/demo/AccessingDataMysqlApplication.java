@@ -11,5 +11,6 @@ public class AccessingDataMysqlApplication {
     SpringApplication.run(AccessingDataMysqlApplication.class, args);
     System.out.println("master");
     System.out.println("po merge");
+    System.out.println("po merge2");
   }
 }
