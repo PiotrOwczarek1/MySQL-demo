@@ -7,10 +7,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AccessingDataMysqlApplication {
 
 
-	public static void main(String[] args) {
-		System.out.println("branch1");
-		System.out.println("branch2");
-		SpringApplication.run(AccessingDataMysqlApplication.class, args);
-	}
+  public static void main(String[] args) {
+    SpringApplication.run(AccessingDataMysqlApplication.class, args);
+    System.out.println("master");
+    System.out.println("branch1");
+    System.out.println("po merge");
+    System.out.println("po merge2");
+	System.out.println('łączony merge");
+  }
 
 }
