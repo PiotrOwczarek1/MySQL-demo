@@ -13,7 +13,7 @@ public class AccessingDataMysqlApplication {
     System.out.println("branch1");
     System.out.println("po merge");
     System.out.println("po merge2");
-	System.out.println('łączony merge");
+	System.out.println("zony merg1e");
   }
 
 }
